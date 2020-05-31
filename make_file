@@ -1,0 +1,5 @@
+all:
+g++ trassirovka.cpp -o trassirovka
+	
+run:
+trassirovka
